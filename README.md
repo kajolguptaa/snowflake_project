@@ -10,4 +10,13 @@ https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
 STEPS INVOLVED
 
+a.	Creation of database
+b.	Creation of schemas
+c.	Creation of table as per dataset
+d.	Creation of Integration Object
+e.	Creation of external stage for loading the data structure
+f.	Creation of snowpipe for autoingesting of data from S3 bucket
+g.	Creation of stream on the given table
+h.	SCD 2 operation on the consumer table
+
 
