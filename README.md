@@ -7,3 +7,7 @@ ABOUT THE DATASET
 The dataset used for this project has been taken from Superstore Dataset which can be found here:
 https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
+
+STEPS INVOLVED
+
+
