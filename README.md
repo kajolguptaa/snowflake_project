@@ -27,3 +27,5 @@ STEPS INVOLVED
 8.	SCD 2 operation on the consumer table
 
 
+Note:- This is the unit test report through which we done this snowflake project with the suitable steps and also do the data analysis on it.
+
